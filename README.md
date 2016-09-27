@@ -1,6 +1,4 @@
-# AWS
-
-# LinkitSmart7688 ApMode <-> StationMode
+# AWS Services
 
 File / Code
 ==============

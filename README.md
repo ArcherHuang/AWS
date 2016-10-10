@@ -1,4 +1,4 @@
-# AWS Services
+# Short Message Service
 
 File / Code
 ==============

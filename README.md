@@ -7,6 +7,11 @@ File / Code
 |---|---|---|
 |  1 |   sms.py| Sending an SMS message using the console or AWS SDKs. |
 
+Export
+==============
+export AWS_ACCESS_KEY_ID=
+export AWS_SECRET_ACCESS_KEY=
+
 Execute
 ==============
 

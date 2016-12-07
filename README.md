@@ -14,6 +14,10 @@ export AWS_ACCESS_KEY_ID=
 export AWS_SECRET_ACCESS_KEY=
 ```
 
+Package
+==============
+pip install boto3
+
 Execute
 ==============
 
